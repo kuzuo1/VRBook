@@ -92,6 +92,14 @@
 		{
 			"name": "/actions/main/in/MotionController(R)GripAxis axis",
 			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/MotionController(L)ThumbUp axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/MotionController(R)ThumbUp axis",
+			"type": "vector1"
 		}
 	],
 	"action_sets": [
@@ -212,6 +220,8 @@
 			"/actions/main/in/MotionController(R)TriggerAxis axis": "MotionController(R)TriggerAxis",
 			"/actions/main/in/MotionController(L)GripAxis axis": "MotionController(L)GripAxis",
 			"/actions/main/in/MotionController(R)GripAxis axis": "MotionController(R)GripAxis",
+			"/actions/main/in/MotionController(L)ThumbUp axis": "MotionController(L)ThumbUp",
+			"/actions/main/in/MotionController(R)ThumbUp axis": "MotionController(R)ThumbUp",
 			"/actions/main": "Main Game Actions"
 		}
 	]
