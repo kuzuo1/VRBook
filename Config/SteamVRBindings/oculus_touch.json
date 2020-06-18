@@ -28,28 +28,6 @@
 							"output": "/actions/main/in/MotionController(R)TriggerAxis axis"
 						}
 					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/grip",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/MotionController(L)GripAxis axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/MotionController(R)GripAxis axis"
-						}
-					}
 				}
 			],
 			"poses": [

@@ -36,7 +36,7 @@
 					{
 						"value":
 						{
-							"output": "/actions/main/in/MotionController(L)GripAxis axis"
+							"output": "/actions/main/in/MotionController(L)Grip axis"
 						}
 					}
 				},
@@ -47,7 +47,7 @@
 					{
 						"value":
 						{
-							"output": "/actions/main/in/MotionController(R)GripAxis axis"
+							"output": "/actions/main/in/MotionController(R)Grip axis"
 						}
 					}
 				}
